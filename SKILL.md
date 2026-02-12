@@ -1,11 +1,9 @@
 ---
 name: pendulum-diagnosis
-description: Analyze how life oscillates between pain (unfulfilled desire) and boredom
-  (satisfied desire), revealing the futility of pursuing lasting satisfaction through
-  the Will's endless striving.
+description: Analyze how life oscillates between pain (unfulfilled desire) and boredom (satisfied desire), revealing the futility of pursuing lasting satisfaction through the Will's endless striving.
 license: MIT
 metadata:
-  version: 1.0.0
+  version: 1.0.1
   author: sethmblack
 keywords:
 - pendulum-diagnosis
